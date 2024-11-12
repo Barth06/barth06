@@ -1,9 +1,9 @@
-# 👋 Olá, eu sou Vinicius Afonso!
+# 👋 Olá, eu sou Ana Barth!
 
-Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor com foco em [área de atuação, ex: desenvolvimento web, análise de dados, etc.] e uma paixão por criar soluções inovadoras e eficientes. 🌟
+Seja bem-vindo(a) ao meu perfil no GitHub! Sou Product Manager e tenho uma paixão por criar soluções inovadoras e eficientes. 🌟
 
-- 🎓 **Experiência/Área de Estudo:** [Descreva brevemente sua experiência ou formação]
-- 🔭 **Atualmente, estou trabalhando em:** [Nome do Projeto ou Objetivo Atual]
+- 🎓 **Experiência/Área de Estudo: Ensino médio completo e cursandop Product Management na ProWay
+- 🔭 **Atualmente, estou trabalhando em: Uma Startup 
 - 🌱 **Estou aprendendo:** [Tecnologias ou áreas de conhecimento em que você está se aprofundando]
 - 💬 **Pergunte-me sobre:** [Tecnologias ou temas que você domina e sobre os quais ficaria feliz em ajudar]
 
