@@ -4,7 +4,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Sou Product Manager e tenho uma paix�
 
 - 🎓 **Experiência/Área de Estudo: Ensino médio completo e cursandop Product Management na ProWay
 - 🔭 **Atualmente, estou trabalhando em: Uma Startup 
-- 🌱 **Estou aprendendo:** [Tecnologias ou áreas de conhecimento em que você está se aprofundando]
+- 🌱 **Estou aprendendo:*Programação front-end e ux/ui desing
 - 💬 **Pergunte-me sobre:** [Tecnologias ou temas que você domina e sobre os quais ficaria feliz em ajudar]
 
 ---
